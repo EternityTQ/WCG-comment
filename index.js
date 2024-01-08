@@ -1,4 +1,4 @@
-const Application = require('waline/vercel');
+const Application = require('@waline/vercel');
 const cors = require('cors'); // 需要安装cors模块，使用npm install cors
 
 // 允许所有源访问，或者替换'*'以允许特定源访问
