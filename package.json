@@ -5,7 +5,6 @@
   "dependencies": {
     "@waline/vercel": "latest",
     "cors": "latest",
-    "@vercel/node": "latest",
     "typescript": "latest"
   }
 }
